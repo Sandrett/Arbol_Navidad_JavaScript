@@ -1,0 +1,71 @@
+	body{
+
+		background-color: red
+	}
+
+	.botones{
+
+		margin:1em auto;
+		text-align:center;
+
+	}
+
+	.ArbolNavidad{
+		max-width: 381px;
+		width: 100%;
+		margin: 1em auto;
+		position: relative;
+	}
+
+	.arbol{
+		filter:brightness(0.8);
+
+	}
+
+	.bolas img{
+		position: absolute;
+		width: 10%;
+		height: auto;
+	}
+
+.bola1{
+
+	right: 50%;
+	top: 70%;
+}
+.bola-roja{
+
+	right:30%;
+	top: 30%; 
+}
+.bola2{
+
+	right: 67%;
+	top: 85%;
+}	
+.bola-verde{
+
+	right: 30%;
+	top: 45%;
+}
+.bola-amarilla{
+
+	right: 60%;
+	top: 33%;
+}
+
+
+.bola-yellow{
+	right: 15%;
+	top: 71%;
+
+}
+
+.bola-blue{
+	right: 65%;
+	top:57%;
+
+}
+
+
+
